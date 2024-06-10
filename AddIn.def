@@ -1,0 +1,7 @@
+LIBRARY    "MariaTPAddin.dll"
+
+EXPORTS
+GetClassObject
+DestroyObject
+GetClassNames
+SetPlatformCapabilities
